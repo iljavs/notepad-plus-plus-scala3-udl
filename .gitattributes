@@ -1,0 +1,4 @@
+# The UDL is dropped into Notepad++ verbatim, so git must not have an opinion about
+# its line endings. Marking it -text keeps the committed bytes identical to the file
+# that was tested, on every platform and every clone.
+Scala3.xml -text
